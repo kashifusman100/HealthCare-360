@@ -16,15 +16,15 @@ Hospital managers need a central system to track revenue collection, patient car
 Power BI Desktop (Power Query, Data Modeling, DAX), Excel (source data)
 
 ## Links
-[Dashboard Screenshots]()
+[Dashboard Screenshots](https://github.com/kashifusman100/HealthCare-360/tree/main/Dashboard%20Screenshots)
 
-[Power BI File]()
+[Power BI File](https://github.com/kashifusman100/HealthCare-360/tree/main/Power%20BI%20File)
 
 ## Quick Dashboard Demo
-
+https://github.com/user-attachments/assets/bf339c73-ad46-48c2-addb-93023ffcad87
 
 ## Model View
-
+<img width="1558" height="683" alt="Image" src="https://github.com/user-attachments/assets/aee1bdef-586b-4c34-995a-df1aa7b5282d" />
 
 ## Key Insights & Findings
 
