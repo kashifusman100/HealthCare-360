@@ -1,9 +1,9 @@
 # HealthCare-360
 
 ## Project Description
-HealthCare 360 is a 4-page Power BI dashboard built to track hospital operations, revenue collection, clinical quality, and equipment usage across multiple facilities. 
+HealthCare 360 is a 4 page Power BI dashboard built to track hospital operations, revenue collection, clinical quality, and equipment usage across multiple facilities. 
 
-I used SQL to set up database tables, clean raw records, and validate key financial and clinical metrics against database logic. In Power Query, I handled data type formatting, cleaned messy strings, and merged missing lookup keys. The data model uses a Galaxy Schema with single-direction 1-to-Many relationships to prevent circular dependencies and maintain fast visual performance. Custom DAX measures were written to handle financial reconciliation, readmission rates, and patient feedback scores.
+I used SQL to set up database tables, clean raw records, and validate key financial and clinical metrics against database logic. In Power Query, I handled data type formatting, cleaned messy strings, and merged missing lookup keys. The data model uses a Galaxy Schema with single direction 1 to Many relationships to prevent circular dependencies and maintain fast visual performance. Custom DAX measures were written to handle financial reconciliation, readmission rates, and patient feedback scores.
 
 ## Identified Business Challenges
 Hospital managers need a central system to track revenue collection, patient care quality, and resource usage across multiple facilities.
@@ -17,13 +17,17 @@ Hospital managers need a central system to track revenue collection, patient car
 ## Tools Used
 
 **Power BI Desktop:** Power Query ETL, Galaxy Schema Modeling, DAX Measures, Visuals
+
 **SQL:** Table creation (DDL), data cleaning, and metric validation queries
+
 **Excel / CSV:** Source dataset files
 
 ## Links
 [Dashboard Screenshots](https://github.com/kashifusman100/HealthCare-360/tree/main/Dashboard%20Screenshots)
 
 [Power BI File](https://github.com/kashifusman100/HealthCare-360/tree/main/Power%20BI%20File)
+
+[SQL Scripts](https://github.com/kashifusman100/HealthCare-360/tree/main/SQL%20Scripts)
 
 ## Quick Dashboard Demo
 https://github.com/user-attachments/assets/bf339c73-ad46-48c2-addb-93023ffcad87
